@@ -1,0 +1,14 @@
+# .NET Build Artifacts
+bin/
+obj/
+
+# Visual Studio/VS Code
+.vscode/
+*.suo
+*.user
+
+# macOS
+.DS_Store
+
+# Other
+*.log
